@@ -13,6 +13,7 @@ const CustomHead = () => (
     
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:200,400&display=swap" rel="stylesheet" />
 
+
     <style>{`
       .work-sans {
           font-family: 'Work Sans', sans-serif;
